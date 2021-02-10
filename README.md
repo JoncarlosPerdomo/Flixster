@@ -23,7 +23,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+The Glide transformations messed up my MovieAdapter so I had to hardcode width and height. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
